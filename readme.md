@@ -41,6 +41,7 @@ textbox<node-id> 确认某个文字是否存在
 activity<-1> 确认当前界面的activity
 check_install<app_name> 确认是否安装了某个app
 check_uninstall<app_name> 确认是否卸载了某个app
+button<1:state> 确认某个button的状态。state = on or off
 
 ### 关键字组合
 关键字之间用|来分割
